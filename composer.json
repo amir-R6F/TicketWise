@@ -1,0 +1,12 @@
+{
+    "name": "amir-r6f/pticket",
+    "authors": [
+        {
+            "name": "amir-R6F",
+            "email": "md.r6f.mrg@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["inc/"]
+    }
+}
